@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: I completed my master's degree in Computer Science and Information Engineering.
-- 💬 I’m currently learning K8S, kafka, etc.
-- 🤔 I’m looking for help with IT knowedge.
+- :thought_balloon: I’m currently learning K8S, kafka, etc.
+- :speech_balloon: I’m looking for help with IT knowedge.
