@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - :thought_balloon: I’m currently learning K8S, kafka, etc.
 - :speech_balloon: I’m looking for help with IT knowedge.
 
-![J-I-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-i-p&count_private=true&theme=radical&show_icons=true)
+![J-I-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-i-p&count_private=true&theme=github_dark&show_icons=true)
