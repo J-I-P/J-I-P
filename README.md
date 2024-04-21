@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 ![J-I-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-i-p&count_private=true&theme=github_dark&show_icons=true)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jypin)
-
+<a href="https://www.buymeacoffee.com/jypin"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jypin&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
