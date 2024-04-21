@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - :speech_balloon: I’m looking for help with IT knowedge.
 
 ![J-I-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-i-p&count_private=true&theme=github_dark&show_icons=true)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jypin)
+
