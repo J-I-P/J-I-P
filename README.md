@@ -115,6 +115,7 @@ Here are some ideas to get you started:
 </table>
 
 ----------------
+![Bash](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg) Bash 
 ## My Toolbox
 ||**🚀 Currently Learning**|**💡 Proficient**|**📚 Familiar**|
 |:---:|:---:|:---:|:---:|
