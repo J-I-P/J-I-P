@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 -----------
 <table>
     <tr>
-        <td></td>
-        <td>🚀 Currently Learning</td>
-        <td>🚀 Currently Learning</td>
-        <td>🚀 Currently Learning</td>
+        <td valign="top" width="10%"></td>
+        <td valign="top" width="30%">🚀 Currently Learning</td>
+        <td valign="top" width="30%">🚀 Currently Learning</td>
+        <td valign="top" width="30%"🚀 Currently Learning</td>
     </tr>
     <tr>
         <td>Frontend</td>
