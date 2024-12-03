@@ -78,8 +78,8 @@ Here are some ideas to get you started:
     <tr>
         <td valign="top" width="10%"></td>
         <td valign="top" width="30%">🚀 Currently Learning</td>
-        <td valign="top" width="30%">🚀 Currently Learning</td>
-        <td valign="top" width="30%"🚀 Currently Learning</td>
+        <td valign="top" width="30%">💡 Proficient</td>
+        <td valign="top" width="30%">📚 Familiar</td>
     </tr>
     <tr>
         <td>Frontend</td>
@@ -116,9 +116,9 @@ Here are some ideas to get you started:
 
 ----------------
 ## My Toolbox
-||🚀 Currently Learning|💡 Proficient|📚 Familiar|
-|---|---|---|---|
-|Frontend|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>|JQuery|
-|Backend|Python|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>|
-|General|Azure|Elasticserch||
+||**🚀 Currently Learning**|**💡 Proficient**|**📚 Familiar**|
+|:---:|:---:|:---:|:---:|
+|**Frontend**|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>|JQuery|
+|**Backend**|Python|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>|
+|**General**|Azure|Elasticserch||
 
