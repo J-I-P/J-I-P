@@ -77,12 +77,12 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td valign="top" width="10%"></td>
-        <td valign="top" width="30%">🚀 Currently Learning</td>
-        <td valign="top" width="30%">💡 Proficient</td>
-        <td valign="top" width="30%">📚 Familiar</td>
+        <td valign="top" width="30%"><h3>🚀 Currently Learning</h3></td>
+        <td valign="top" width="30%"><h3>💡 Proficient</h3></td>
+        <td valign="top" width="30%"><h3>📚 Familiar</h3></td>
     </tr>
     <tr>
-        <td>Frontend</td>
+        <td><h4>Frontend</h4></td>
         <td>
             <div>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
@@ -101,13 +101,13 @@ Here are some ideas to get you started:
             </td>
     </tr>
     <tr>
-        <td>Backend</td>
+        <td><h4>Backend</h4></td>
         <td>4</td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></td>
         <td>6</td>
     </tr>
     <tr>
-        <td>General</td>
+        <td><h4>General</h4></td>
         <td>7</td>
         <td>8</td>
         <td>9</td>
