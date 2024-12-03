@@ -73,9 +73,50 @@ Here are some ideas to get you started:
     
 </td></tr></table>
 
+-----------
+<table>
+    <tr>
+        <td></td>
+        <td>🚀 Currently Learning</td>
+        <td>🚀 Currently Learning</td>
+        <td>🚀 Currently Learning</td>
+    </tr>
+    <tr>
+        <td>Frontend</td>
+        <td>
+            <div>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
+            </div>
+        </td>
+        <td><div>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
+            </div></td>
+        <td>
+        <div>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
+            </div>
+            </td>
+    </tr>
+    <tr>
+        <td>Backend</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>General</td>
+        <td>7</td>
+        <td>8</td>
+        <td>9</td>
+    </tr>
+</table>
 
+----------------
 ## My Toolbox
-<table><tr><th>🚀 Currently Learning</th><th>💡 Proficient</th><th>📚 Familiar</th></tr>
+<table><tr><th>🚀</th><th>🚀 Currently Learning</th><th>💡 Proficient</th><th>📚 Familiar</th></tr>
   <tr>
     <td>
       <h4>Frontend</h4>
