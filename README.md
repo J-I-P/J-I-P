@@ -96,7 +96,7 @@ Here are some ideas to get you started:
         <td>
         <div>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>
             </div>
             </td>
     </tr>
@@ -116,6 +116,14 @@ Here are some ideas to get you started:
 
 ----------------
 ## My Toolbox
+||🚀 Currently Learning|💡 Proficient|📚 Familiar|
+|---|---|---|---|
+|Frontend|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>|JQuery|
+|Backend|Python|Express|
+|General|Azure|Elasticserch||
+
+
+
 <table><tr><th>🚀</th><th>🚀 Currently Learning</th><th>💡 Proficient</th><th>📚 Familiar</th></tr>
   <tr>
     <td>
