@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td valign="top" width="10%"></td>
-        <td valign="top" width="30%"><center><h3>🚀 Currently Learning</h3></center></td>
+        <td valign="top" width="30%" align="center"><h3>🚀 Currently Learning</h3></td>
         <td valign="top" width="30%" align="center"><h3>💡 Proficient</h3></td>
         <td valign="top" width="30%" align="center"><h3>📚 Familiar</h3></td>
     </tr>
