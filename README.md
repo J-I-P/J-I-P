@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 </td><td valign="top" width="34%">
 
 ### 💡 Proficient
+---
 <div>
     <h4>Frontend</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 </td><td valign="top" width="33%">
 
 ### 📚 Familiar
+---
 <div>
     <h4>Frontend</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
