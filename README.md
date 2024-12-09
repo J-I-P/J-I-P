@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ---
 <div>
     <h4>Programming Languages</h4>
+
     <h4>Frontend</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="axios" alt="axios" width="40" height="40"/>
@@ -46,16 +47,14 @@ Here are some ideas to get you started:
 ---
 <div>
     <h4>Programming Languages</h4>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <h4>Frontend</h4>
     <ul>
     <li>Frameworks</li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
     <li>Libraries</li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
     </ul>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
     <h4>Backend</h4>
     <h4>General</h4>
@@ -95,6 +94,7 @@ Here are some ideas to get you started:
         <h5>Frameworks</h5>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
         <h5>Libraries</h5>
+    ---
     <h4>General</h4>
     <h4>Data Analyst</h4>
 </div>
