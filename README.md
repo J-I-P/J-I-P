@@ -84,6 +84,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" alt="firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
     <h4>Backend</h4>
+        <h5>Frameworks</h5>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
+        <h5>Libraries</h5>
     <h4>General</h4>
     <h4>Data Analyst</h4>
 </div>
