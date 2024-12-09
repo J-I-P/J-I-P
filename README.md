@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: I completed my master's degree in Computer Science and Information Engineering.
-- :thought_balloon: I’m currently learning K8S, kafka, etc.
+- :thought_balloon: I’m currently learning K8S, kafka, elasticsearch, etc.
 - :speech_balloon: I’m looking for help with IT knowedge.
 
 ![J-I-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-i-p&count_private=true&theme=github_dark&show_icons=true)
@@ -86,24 +86,29 @@ Here are some ideas to get you started:
         <td>
             <div>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+            </div>
+        </td>
+        <td>
+            <div>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+            </div>
+        </td>
+        <td>
+            <div>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
             </div>
         </td>
-        <td><div>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
-            </div></td>
-        <td>
-        <div>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>
-            </div>
-            </td>
     </tr>
     <tr>
         <td><h4>Backend</h4></td>
         <td>4</td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></td>
+        <td>
+            <div>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+            </div>
+        </td>
         <td>6</td>
     </tr>
     <tr>
