@@ -94,7 +94,7 @@ Here are some ideas to get you started:
         <h5>Frameworks</h5>
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
         <h5>Libraries</h5>
-    ---
+    <hr/>
     <h4>General</h4>
     <h4>Data Analyst</h4>
 </div>
