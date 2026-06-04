@@ -1,31 +1,30 @@
-# Hi there 👋 I'm Nicole
+# Hi, I'm Nicole
 
-Backend Engineer focused on **Python-based backend systems**, **data pipelines**, and **search-related services**.
-Most of my production experience comes from private or company-side projects, while this GitHub profile is where I organize my learning notes, POCs, and side project experiments.
+Backend Engineer focused on **Python-based backend systems**, **data pipelines**, **search-related services**, and **AI-assisted workflows**.
 
-I mainly work with **Python**, and I’m currently deepening my experience in **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and **AI-assisted backend workflows**.
+My current technical direction centers around **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and practical backend system design.
 
 ## About Me
 
-* 🎓 Master's degree in Computer Science and Information Engineering
-* 💻 Backend engineer mainly working with **Python**
-* 🔍 Interested in backend architecture, data pipelines, search systems, RAG, and AI-assisted applications
-* 🌱 Currently learning more about Kubernetes, Helm, Kafka, Elasticsearch, testing, and scalable service design
-* 🛠️ I care about code maintainability, system reliability, clear architecture, and practical engineering decisions
-* 🚀 Gradually curating my GitHub repositories into clearer learning records and portfolio projects
+**Backend Systems** · **Data Pipelines** · **Search Infrastructure** · **AI-Assisted Workflows**
+
+Most of my production experience comes from private or company-side projects.
+This GitHub profile is where I turn engineering experience into public-facing notes, POCs, and side project implementations.
+
+I care about maintainable code, reliable systems, clear architecture, and practical engineering decisions.
 
 ## About This GitHub
 
-This GitHub profile is currently a workspace for:
+This GitHub profile is currently a public workspace for:
 
 * POC projects
-* Learning notes
-* Side project drafts
+* Technical notes
+* Side project implementations
 * Backend architecture experiments
 * AI-assisted application experiments
 * Personal automation and dashboard ideas
 
-Some repositories are still incomplete or experimental, but I’m gradually organizing them into clearer project records with better documentation, structure, and implementation notes.
+Some repositories are still experimental or being organized, but I’m gradually improving them with clearer documentation, better structure, and implementation notes.
 
 ## Tech Stack
 
@@ -77,7 +76,7 @@ Some repositories are still incomplete or experimental, but I’m gradually orga
 
 ## Professional Engineering Focus
 
-The following areas reflect my private/company-side production experience and the engineering topics I’m actively organizing into public learning records and side project experiments.
+The following areas reflect my private/company-side production experience and the engineering topics I’m gradually turning into public-facing technical notes, POCs, and side project implementations.
 
 ### Backend Service Architecture
 
@@ -109,30 +108,27 @@ The following areas reflect my private/company-side production experience and th
 
 ### Cloud-Native & Deployment
 
-* Learning Kubernetes architecture, deployment patterns, and Helm chart design
 * Working with Docker-based application packaging
 * Improving environment-based configuration and deployment workflows
+* Expanding Kubernetes and Helm deployment experience
 * Interested in building backend services that are easier to deploy, operate, and maintain
 
-## Currently Organizing
+## Public Work in Progress
 
-* FastAPI service architecture examples
-* Backend testing notes with `pytest`
-* Kafka, Elasticsearch, and data pipeline learning records
+I use this GitHub profile to convert private production experience into public-facing technical notes, POCs, and side project implementations.
+
+Current focus areas:
+
+* FastAPI service architecture patterns
+* Backend testing and dependency mocking with `pytest`
+* Kafka, Elasticsearch, and data pipeline experiments
 * Kubernetes and Helm deployment notes
-* AI-assisted backend experiments with RAG, LangChain, LangGraph, and LangSmith
-* Side projects around personal dashboards, automation, and data-driven tools
+* AI-assisted backend workflows with RAG, LangChain, LangGraph, and LangSmith
+* Personal automation and dashboard side projects
 
-## Areas of Interest
+## Technical Direction
 
-* Backend system design
-* Python backend architecture
-* Event-driven architecture
-* Kafka-based data pipelines
-* Elasticsearch and search relevance
-* RAG and AI-assisted applications
-* Cloud-native backend deployment
-* Code maintainability and system reliability
+Backend system design, Python service architecture, event-driven systems, search infrastructure, RAG applications, cloud-native deployment, and maintainable backend engineering.
 
 ## Contact
 
