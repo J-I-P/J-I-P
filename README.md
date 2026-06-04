@@ -4,9 +4,6 @@ Backend Engineer with production experience in **Python-based backend systems**,
 
 My current technical direction centers around **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and practical backend system design.
 
-Most of my production work comes from private or company-side projects.
-This GitHub profile is where I make parts of my engineering thinking public through technical notes, POCs, and side project implementations.
-
 ## About Me
 
 **Backend Systems** · **Data Pipelines** · **Search Infrastructure** · **AI-Assisted Workflows**
@@ -104,7 +101,8 @@ The following areas reflect my private/company-side production experience and th
 
 ## About This GitHub
 
-This GitHub profile is not a complete mirror of my production work.
+This GitHub profile is not a complete mirror of my production work. Most of my production work comes from private or company-side projects.
+
 It is a public engineering workspace for:
 
 * Technical notes
