@@ -1,30 +1,19 @@
 # Hi, I'm Nicole
 
-Backend Engineer focused on **Python-based backend systems**, **data pipelines**, **search-related services**, and **AI-assisted workflows**.
+Backend Engineer with production experience in **Python-based backend systems**, **data pipelines**, **search-related services**, and **AI-assisted workflows**.
 
 My current technical direction centers around **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and practical backend system design.
+
+Most of my production work comes from private or company-side projects.
+This GitHub profile is where I make parts of my engineering thinking public through technical notes, POCs, and side project implementations.
 
 ## About Me
 
 **Backend Systems** · **Data Pipelines** · **Search Infrastructure** · **AI-Assisted Workflows**
 
-Most of my production experience comes from private or company-side projects.
-This GitHub profile is where I turn engineering experience into public-facing notes, POCs, and side project implementations.
+I'm focused on building maintainable backend services, event-driven data flows, search-related applications, and AI-assisted backend workflows.
 
-I care about maintainable code, reliable systems, clear architecture, and practical engineering decisions.
-
-## About This GitHub
-
-This GitHub profile is currently a public workspace for:
-
-* POC projects
-* Technical notes
-* Side project implementations
-* Backend architecture experiments
-* AI-assisted application experiments
-* Personal automation and dashboard ideas
-
-Some repositories are still experimental or being organized, but I’m gradually improving them with clearer documentation, better structure, and implementation notes.
+I care about reliable systems, clear architecture, maintainable code, and practical engineering decisions.
 
 ## Tech Stack
 
@@ -113,9 +102,21 @@ The following areas reflect my private/company-side production experience and th
 * Expanding Kubernetes and Helm deployment experience
 * Interested in building backend services that are easier to deploy, operate, and maintain
 
-## Public Work in Progress
+## About This GitHub
 
-I use this GitHub profile to convert private production experience into public-facing technical notes, POCs, and side project implementations.
+This GitHub profile is not a complete mirror of my production work.
+It is a public engineering workspace for:
+
+* Technical notes
+* POC projects
+* Side project implementations
+* Backend architecture experiments
+* AI-assisted application experiments
+* Personal automation and dashboard ideas
+
+Repositories may vary in maturity, but the goal is to gradually turn practical engineering experience into clearer public records, reusable examples, and portfolio-ready projects.
+
+## Public Work in Progress
 
 Current focus areas:
 
