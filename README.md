@@ -109,5 +109,6 @@ It is a public engineering workspace for:
 * AI-assisted application experiments
 * Personal automation and dashboard ideas
 
-Repositories may vary in maturity, but the goal is to gradually turn practical engineering experience into clearer public records, reusable examples, and portfolio-ready projects.
+The goal is to gradually turn practical engineering experience into clearer public records, reusable examples, and portfolio-ready projects.
+
 
