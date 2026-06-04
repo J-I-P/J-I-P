@@ -116,17 +116,6 @@ It is a public engineering workspace for:
 
 Repositories may vary in maturity, but the goal is to gradually turn practical engineering experience into clearer public records, reusable examples, and portfolio-ready projects.
 
-## Public Work in Progress
-
-Current focus areas:
-
-* FastAPI service architecture patterns
-* Backend testing and dependency mocking with `pytest`
-* Kafka, Elasticsearch, and data pipeline experiments
-* Kubernetes and Helm deployment notes
-* AI-assisted backend workflows with RAG, LangChain, LangGraph, and LangSmith
-* Personal automation and dashboard side projects
-
 ## Technical Direction
 
 Backend system design, Python service architecture, event-driven systems, search infrastructure, RAG applications, cloud-native deployment, and maintainable backend engineering.
