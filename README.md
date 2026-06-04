@@ -1,21 +1,18 @@
 # Hi there 👋 I'm Nicole
 
-Backend Engineer specializing in **Python-based backend systems**, **data pipelines**, and **search-related services**.
-Building and improving backend applications across **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and **AI-assisted workflows**.
+Backend Engineer focused on **Python-based backend systems**, **data pipelines**, and **search-related services**.
+Most of my production experience comes from private or company-side projects, while this GitHub profile is where I organize my learning notes, experiments, and side projects.
 
-![GitHub followers](https://img.shields.io/github/followers/J-I-P?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=J-I-P\&style=flat-square)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=J-I-P\&theme=github-dark-blue\&hide_border=true)
+I mainly work with **Python**, and I’m currently deepening my experience in **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and **AI-assisted backend workflows**.
 
 ## About Me
 
 * 🎓 Master's degree in Computer Science and Information Engineering
 * 💻 Backend engineer mainly working with **Python**
 * 🔍 Interested in backend architecture, data pipelines, search systems, RAG, and AI-assisted applications
-* 🌱 Currently deepening my experience in Kubernetes, Helm, Kafka, Elasticsearch, testing, and scalable service design
+* 🌱 Currently learning more about Kubernetes, Helm, Kafka, Elasticsearch, testing, and scalable service design
 * 🛠️ I care about code maintainability, system reliability, clear architecture, and practical engineering decisions
-* 🚀 Building side projects to strengthen my system design, automation, and product development skills
+* 🚀 Gradually curating my GitHub repositories into clearer learning records and portfolio projects
 
 ## Tech Stack
 
@@ -70,7 +67,7 @@ Building and improving backend applications across **FastAPI**, **Kafka**, **Ela
 ### Backend Service Architecture
 
 * Designing FastAPI services with clearer controller, service, schema, and shared utility layers
-* Migrating and refactoring legacy Flask-based APIs into FastAPI services
+* Refactoring legacy Flask-based APIs into more maintainable FastAPI-style service structures
 * Building reusable backend modules for database sessions, authentication, permission checks, and configuration management
 * Improving API maintainability through structured request schemas, custom exceptions, and clearer error handling
 
@@ -85,7 +82,7 @@ Building and improving backend applications across **FastAPI**, **Kafka**, **Ela
 
 * Working with Elasticsearch indexing, querying, and search-related backend features
 * Designing search flows involving full-text search, structured filters, and relevance considerations
-* Building and improving RAG-style backend applications using search results as context
+* Building RAG-style backend applications that use search results as context
 * Exploring better ways to connect backend systems with AI-assisted retrieval and summarization
 
 ### AI-Assisted Backend Applications
@@ -102,13 +99,14 @@ Building and improving backend applications across **FastAPI**, **Kafka**, **Ela
 * Improving environment-based configuration and deployment workflows
 * Interested in building backend services that are easier to deploy, operate, and maintain
 
-## What I'm Currently Working On
+## Currently Organizing
 
-* Designing cleaner FastAPI service architecture with reusable shared modules
-* Improving backend testing strategy with `pytest` and dependency mocking
-* Learning Kubernetes, Helm charts, and cloud-native deployment patterns more deeply
-* Exploring AI-assisted backend applications with RAG, LangChain, LangGraph, and LangSmith
-* Building side projects around personal dashboards, automation, and data-driven tools
+* FastAPI service architecture examples
+* Backend testing notes with `pytest`
+* Kafka, Elasticsearch, and data pipeline learning records
+* Kubernetes and Helm deployment notes
+* AI-assisted backend experiments with RAG, LangChain, LangGraph, and LangSmith
+* Side projects around personal dashboards, automation, and data-driven tools
 
 ## Areas of Interest
 
@@ -121,11 +119,20 @@ Building and improving backend applications across **FastAPI**, **Kafka**, **Ela
 * Cloud-native backend deployment
 * Code maintainability and system reliability
 
-## GitHub Stats
+## GitHub Activity
 
-![J-I-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-I-P\&count_private=true\&theme=github_dark\&show_icons=true)
+<p>
+  <img src="https://img.shields.io/github/followers/J-I-P?style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=J-I-P&style=flat-square" alt="Profile Views" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-I-P\&layout=compact\&theme=github_dark)
+<p>
+  <img src="https://streak-stats.demolab.com?user=J-I-P&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-I-P&show_icons=true&theme=github_dark&hide_border=true" alt="J-I-P's GitHub stats" />
+</p>
 
 ## Contact
 
