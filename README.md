@@ -1,16 +1,13 @@
 # Hi, I'm Nicole
 
+**Backend Systems** · **Data Pipelines** · **Search Infrastructure** · **AI-Assisted Workflows** · **Cloud-Native Backend Development**
+
 Backend Engineer with production experience in **Python-based backend systems**, **data pipelines**, **search-related services**, and **AI-assisted workflows**.
 
-My current technical direction centers around **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and practical backend system design.
+My technical direction centers around **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, **RAG applications**, and practical backend system design.
 
-## About Me
+I care about building maintainable backend services, reliable systems, clear architecture, and practical engineering decisions.
 
-**Backend Systems** · **Data Pipelines** · **Search Infrastructure** · **AI-Assisted Workflows**
-
-I'm focused on building maintainable backend services, event-driven data flows, search-related applications, and AI-assisted backend workflows.
-
-I care about reliable systems, clear architecture, maintainable code, and practical engineering decisions.
 
 ## Tech Stack
 
@@ -114,10 +111,3 @@ It is a public engineering workspace for:
 
 Repositories may vary in maturity, but the goal is to gradually turn practical engineering experience into clearer public records, reusable examples, and portfolio-ready projects.
 
-## Technical Direction
-
-Backend system design, Python service architecture, event-driven systems, search infrastructure, RAG applications, cloud-native deployment, and maintainable backend engineering.
-
-## Contact
-
-* GitHub: [@J-I-P](https://github.com/J-I-P)
