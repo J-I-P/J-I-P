@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nicole
 
 Backend Engineer focused on **Python-based backend systems**, **data pipelines**, and **search-related services**.
-Most of my production experience comes from private or company-side projects, while this GitHub profile is where I organize my learning notes, experiments, and side projects.
+Most of my production experience comes from private or company-side projects, while this GitHub profile is where I organize my learning notes, POCs, and side project experiments.
 
 I mainly work with **Python**, and I’m currently deepening my experience in **FastAPI**, **Kafka**, **Elasticsearch**, **Kubernetes**, and **AI-assisted backend workflows**.
 
@@ -13,6 +13,19 @@ I mainly work with **Python**, and I’m currently deepening my experience in **
 * 🌱 Currently learning more about Kubernetes, Helm, Kafka, Elasticsearch, testing, and scalable service design
 * 🛠️ I care about code maintainability, system reliability, clear architecture, and practical engineering decisions
 * 🚀 Gradually curating my GitHub repositories into clearer learning records and portfolio projects
+
+## About This GitHub
+
+This GitHub profile is currently a workspace for:
+
+* POC projects
+* Learning notes
+* Side project drafts
+* Backend architecture experiments
+* AI-assisted application experiments
+* Personal automation and dashboard ideas
+
+Some repositories are still incomplete or experimental, but I’m gradually organizing them into clearer project records with better documentation, structure, and implementation notes.
 
 ## Tech Stack
 
@@ -62,12 +75,14 @@ I mainly work with **Python**, and I’m currently deepening my experience in **
 ![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square\&logo=openai\&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square)
 
-## Engineering Focus
+## Professional Engineering Focus
+
+The following areas reflect my private/company-side production experience and the engineering topics I’m actively organizing into public learning records and side project experiments.
 
 ### Backend Service Architecture
 
-* Designing FastAPI services with clearer controller, service, schema, and shared utility layers
-* Refactoring legacy Flask-based APIs into more maintainable FastAPI-style service structures
+* Designing FastAPI-style services with clearer controller, service, schema, and shared utility layers
+* Refactoring legacy Flask-based APIs into more maintainable service structures
 * Building reusable backend modules for database sessions, authentication, permission checks, and configuration management
 * Improving API maintainability through structured request schemas, custom exceptions, and clearer error handling
 
@@ -118,21 +133,6 @@ I mainly work with **Python**, and I’m currently deepening my experience in **
 * RAG and AI-assisted applications
 * Cloud-native backend deployment
 * Code maintainability and system reliability
-
-## GitHub Activity
-
-<p>
-  <img src="https://img.shields.io/github/followers/J-I-P?style=social" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=J-I-P&style=flat-square" alt="Profile Views" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=J-I-P&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J-I-P&show_icons=true&theme=github_dark&hide_border=true" alt="J-I-P's GitHub stats" />
-</p>
 
 ## Contact
 
